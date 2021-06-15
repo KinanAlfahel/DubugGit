@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DubugGit": {
+      "commandName": "Project",
+      "commandLineArgs": "Banan Äpple Päron"
+    }
+  }
+}
